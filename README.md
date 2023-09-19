@@ -14,7 +14,7 @@
 ### Паттерн Фабрика (Factory Pattern):
 Позволяет создавать объекты без указания конкретного класса объекта. Скрывает создание объекта и обеспечивает интерфейс для его создания.
 
-[Factory Pattern](https://github.com/the0shail/Pattern-Java/tree/main/singleton)
+[Factory Pattern](https://github.com/the0shail/Pattern-Java/tree/main/factoryPattern)
 
 ### Паттерн Фабричный метод (Factory Method Pattern):
 Определяет интерфейс для создания объекта, но оставляет подклассам решение о том, какой класс конкретного объекта создавать. Это помогает расширять функциональность, не изменяя существующий код.
