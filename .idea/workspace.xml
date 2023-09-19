@@ -5,45 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b0a9232-32d5-45d5-bf1f-45b03b5aab0a" name="Changes" comment="Factory Method Pattern">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/source/ConcreteProductFactory1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/source/ConcreteProductFactory2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/source/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/source/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/test/Copper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/test/CopperMine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/test/Iron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/test/IronMine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/test/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/test/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryPattern/src/main/java/factoryPattern/ConcreteProduct1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryPattern/src/main/java/factoryPattern/ConcreteProduct2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoryPattern/src/main/java/factoryPattern/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/source/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/source/ConcreteFactory1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/source/ConcreteFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/source/ConcreteProductA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/source/ConcreteProductA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/source/ConcreteProductB1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/source/ConcreteProductB2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/source/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/source/ProductA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/source/ProductB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/factories/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/factories/ConsoleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/factories/PhoneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/interfaces/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/interfaces/GameFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/interfaces/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/interfaces/Telephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/products/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/products/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractFactoryPattern/src/main/java/abstractFactoryPattern/test/products/Playstation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/паттерны.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/src/main/java/ConcreteProduct1.java" beforeDir="false" afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/source/ConcreteProduct1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/src/main/java/ConcreteProduct2.java" beforeDir="false" afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/source/ConcreteProduct2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/factoryPattern/src/main/java/factoryPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/src/main/java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/factoryMethodPattern/src/main/java/source/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/src/main/java/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/factoryPattern/src/main/java/factoryPattern/ProductFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,6 +57,9 @@
   "associatedIndex": 2
 }]]></component>
   <component name="ProjectId" id="2VbgRA5sJTgptgl6ZoYHt74uNCt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -67,11 +71,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "20",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.abstractFactoryPattern.test.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factoryPattern.Main" />
       <module name="patterns" />
@@ -85,8 +97,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="abstractFactoryPattern.source.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstractFactoryPattern.source.Main" />
+      <module name="abstractFactoryPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractFactoryPattern.source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="abstractFactoryPattern.test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstractFactoryPattern.test.Main" />
+      <module name="abstractFactoryPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractFactoryPattern.test.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.abstractFactoryPattern.test.Main" />
+        <item itemvalue="Application.abstractFactoryPattern.source.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -99,12 +139,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695110184922</updated>
-      <workItem from="1695110187247" duration="296000" />
+      <workItem from="1695110187247" duration="6376000" />
     </task>
+    <task id="LOCAL-00001" summary="Factory Method Pattern">
+      <option name="closed" value="true" />
+      <created>1695110537052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695110537052</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Factory Method Pattern" />

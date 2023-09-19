@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/singleton/pom.xml" />
         <option value="$PROJECT_DIR$/factoryPattern/pom.xml" />
         <option value="$PROJECT_DIR$/factoryMethodPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/abstractFactoryPattern/pom.xml" />
       </list>
     </option>
   </component>
