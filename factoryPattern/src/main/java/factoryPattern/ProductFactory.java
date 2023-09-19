@@ -1,3 +1,5 @@
+package factoryPattern;
+
 public class ProductFactory {
     public static Product createProduct(String productType){
         if (productType.equals("1")){

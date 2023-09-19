@@ -3,10 +3,15 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/factoryMethodPattern/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/factoryMethodPattern/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/factoryPattern/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/factoryPattern/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/singleton/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/singleton/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/factoryMethodPattern/target" />
+      <excludeFolder url="file://$MODULE_DIR$/factoryPattern/target" />
+      <excludeFolder url="file://$MODULE_DIR$/singleton/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
